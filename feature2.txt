@@ -1,1 +1,2 @@
 This is feature two.
+This is a bug fix in feature two.
