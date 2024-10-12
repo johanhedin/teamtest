@@ -3,4 +3,4 @@ Test test repo
 
 A section
 ----
-Text in this section.
+Text in this section. Updated text.
